@@ -1,1 +1,6 @@
-hello
+Hello world 
+
+This website is going to be awesome. 
+Looking forward to it.
+
+Team Rocket
